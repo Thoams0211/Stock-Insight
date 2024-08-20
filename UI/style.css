@@ -1,0 +1,54 @@
+/* Center the main title */
+h2 {
+    text-align: center;
+    font-size: 36px;
+    /* Adjust font size as needed */
+}
+
+/* Increase line spacing and font size */
+body {
+    line-height: 1.6;
+    /* Adjust line spacing as needed */
+    font-size: 18px;
+    /* Adjust font size as needed */
+}
+
+/* Beautify the output Markdown document */
+.output-markdown {
+    /* Light grey border */
+    padding: 20px;
+    /* Add padding */
+    border-radius: 8px;
+    /* Rounded corners */
+    font-family: Arial, sans-serif;
+    /* Change font */
+}
+
+/* Additional styling for the Markdown content */
+.output-markdown h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.output-markdown h2,
+.output-markdown h3,
+.output-markdown h4,
+.output-markdown h5,
+.output-markdown h6 {
+    /* Dark grey color for headings */
+    margin-top: 20px;
+    /* Add spacing above headings */
+}
+
+.output-markdown p {
+    margin-bottom: 20px;
+    /* Add spacing below paragraphs */
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.output-markdown img {
+    width: 50%;
+    text-align: center;
+    margin: 50px;
+}
