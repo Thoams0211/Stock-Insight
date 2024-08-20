@@ -1,0 +1,44 @@
+(mind) (base) root@autodl-container-bc104a929d-b82007ea:~/autodl-tmp/MindMap# python MindMap.py 
+5802it [22:50,  4.23it/s]
+HERE!!
+Question:
+ Doctor, I have been feeling very fatigued lately and my abdomen feels swollen and tender. I am also experiencing jaundice in my eyes. Could it be a liver problem?
+RES:  <neo4j._sync.work.result.Result object at 0x7fa536c5f460>
+RES:  <neo4j._sync.work.result.Result object at 0x7fa536c5f0a0>
+RES:  <neo4j._sync.work.result.Result object at 0x7fa5374b9bb0>
+RES:  <neo4j._sync.work.result.Result object at 0x7fa53689e0d0>
+messages=[SystemMessage(content='\n    There are some knowledge graph path. They follow entity->relationship->entity format.\n    \n\n\n    Fatigue->possible disease->Cirrhosis->has symptom->Stomach bloating->possible disease->Liver cancer->has symptom->Swollen abdomen->Swollen abdomen->possible disease->Liver cancer->has symptom->Sharp abdominal pain->Sharp abdominal pain->possible disease->Thoracic aortic aneurysm->has symptom->Jaundice->Jaundice->possible disease->Choledocholithiasis->has symptom->Decreased appetite->possible disease->Liver cancer\nFatigue->possible disease->Cirrhosis->has symptom->Stomach bloating->possible disease->Liver cancer->has symptom->Swollen abdomen->Swollen abdomen->possible disease->Liver cancer->has symptom->Sharp abdominal pain->Sharp abdominal pain->possible disease->Thoracic aortic aneurysm->has symptom->Jaundice->Jaundice->possible disease->Choledocholithiasis->has symptom->Upper abdominal pain->possible disease->Liver cancer\nFatigue->possible disease->Cirrhosis->has symptom->Stomach bloating->possible disease->Liver cancer->has symptom->Swollen abdomen->Swollen abdomen->possible disease->Liver cancer->has symptom->Sharp abdominal pain->Sharp abdominal pain->possible disease->Thoracic aortic aneurysm->has symptom->Jaundice->Jaundice->possible disease->Choledocholithiasis->has symptom->Sharp abdominal pain->possible disease->Liver cancer\nFatigue->possible disease->Cirrhosis->has symptom->Stomach bloating->possible disease->Liver cancer->has symptom->Swollen abdomen->Swollen abdomen->possible disease->Liver cancer->has symptom->Sharp abdominal pain->Sharp abdominal pain->possible disease->Thoracic aortic aneurysm->has symptom->Jaundice->Jaundice->possible disease->Thoracic aortic aneurysm->has symptom->Sharp abdominal pain->possible disease->Liver cancer\nFatigue->possible disease->Cirrhosis->has symptom->Stomach bloating->possible disease->Liver cancer->has symptom->Swollen abdomen->Swollen abdomen->possible disease->Liver cancer->has symptom->Sharp abdominal pain->Sharp abdominal pain->possible disease->Thoracic aortic aneurysm->has symptom->Jaundice->Jaundice->possible disease->Choledocholithiasis->need medical test->Electrolytes panel->can check disease->Liver cancer\n    \n\n\n    Use the knowledge graph information. Try to convert them to natural language, respectively. Use single quotation marks for entity name and relation name. And name them as Path-based Evidence 1, Path-based Evidence 2,...\n\n\n\n    Output:\n    ', additional_kwargs={}), HumanMessage(content='{}', additional_kwargs={}, example=False)]
+Traceback (most recent call last):
+  File "/root/autodl-tmp/MindMap/MindMap.py", line 698, in <module>
+    response_of_KG_list_path = prompt_path_finding(path)
+  File "/root/autodl-tmp/MindMap/MindMap.py", line 261, in prompt_path_finding
+    response_of_KG_path = chat_qianfan(chat_prompt_with_values)
+  File "/root/autodl-tmp/MindMap/MindMap.py", line 69, in chat_qianfan
+    payload = json.dumps({
+  File "/root/miniconda3/envs/mind/lib/python3.9/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/root/miniconda3/envs/mind/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/root/miniconda3/envs/mind/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/root/miniconda3/envs/mind/lib/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ChatPromptValue is not JSON serializable
+
+
+Traceback (most recent call last):
+  File "/root/autodl-tmp/MindMap/MindMap.py", line 706, in <module>
+    if is_unable_to_answer(response_single_path):
+  File "/root/autodl-tmp/MindMap/MindMap.py", line 303, in is_unable_to_answer
+    analysis = openai.Completion.create(
+  File "/root/miniconda3/envs/mind/lib/python3.9/site-packages/openai/api_resources/completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/root/miniconda3/envs/mind/lib/python3.9/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 153, in create
+    response, _, api_key = requestor.request(
+  File "/root/miniconda3/envs/mind/lib/python3.9/site-packages/openai/api_requestor.py", line 230, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/root/miniconda3/envs/mind/lib/python3.9/site-packages/openai/api_requestor.py", line 624, in _interpret_response
+    self._interpret_response_line(
+  File "/root/miniconda3/envs/mind/lib/python3.9/site-packages/openai/api_requestor.py", line 687, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: YOUR_OPE***_KEY. You can find your API key at https://platform.openai.com/account/api-keys.

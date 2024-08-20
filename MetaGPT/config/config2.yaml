@@ -1,0 +1,13 @@
+# Full Example: https://github.com/geekan/MetaGPT/blob/main/config/config2.example.yaml
+# Reflected Code: https://github.com/geekan/MetaGPT/blob/main/metagpt/config2.py
+# Config Docs: https://docs.deepwisdom.ai/main/en/guide/get_started/configuration.html
+llm:
+  api_type: 'qianfan'
+  api_key: '0IW9TRIrlfFjd5e33OZLEhKg'
+  secret_key: 'PaII3vc5b0wMRV336BHQ3lXj5VarUmrz'
+  model: 'Llama-2-70b-chat'
+
+# embedding:
+#   api_type: "gemini"
+#   api_key: "AIzaSyDg7I_eyFKskQq3GgxlTQuvepBIMXD2w74"
+#   dimensions: 256 # output dimension of embedding models

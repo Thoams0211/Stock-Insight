@@ -1,0 +1,2868 @@
+[
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Aarhus is the airport of Aarhus, Denmark. <S> [['Aarhus Airport', 'city Served', 'Aarhus Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport serves the city of Aarhus, Denmark. <S> [['Aarhus Airport', 'city Served', 'Aarhus Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus airport serves the city of Aarhus. <S> [['Aarhus Airport', 'city Served', 'Aarhus']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is 25 metres above sea level. <S> [['Aarhus Airport', 'elevation Above The Sea Level', '25.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus airport is at an elevation of 25 metres above seal level. <S> [['Aarhus Airport', 'elevation Above The Sea Level', '25.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is 25.0 metres above the sea level. <S> [['Aarhus Airport', 'elevation Above The Sea Level', '25.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is located in Tirstrup. <S> [['Aarhus Airport', 'location', 'Tirstrup']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location of Aarhus Airport is Tirstrup. <S> [['Aarhus Airport', 'location', 'Tirstrup']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is operated by Aarhus Lufthavn A/S. <S> [['Aarhus Airport', 'operating Organisation', 'Aarhus Lufthavn A/S']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport. <S> [['Aarhus Airport', 'operating Organisation', 'Aarhus Lufthavn A/S']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aktieselskab is the operating organisation for Aarhus Airport. <S> [['Aarhus Airport', 'operating Organisation', 'Aktieselskab']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aktieselskab operates Aarhus Airport. <S> [['Aarhus Airport', 'operating Organisation', 'Aktieselskab']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is operated by the Aktieselskab organisation. <S> [['Aarhus Airport', 'operating Organisation', 'Aktieselskab']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport runway length is 2776.0. <S> [['Aarhus Airport', 'runway Length', '2776.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport has a runway length of 2776.0. <S> [['Aarhus Airport', 'runway Length', '2776.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Aarhus Airport is 2776.0. <S> [['Aarhus Airport', 'runway Length', '2776.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Aarhus Airport is 2777.0 meters. <S> [['Aarhus Airport', 'runway Length', '2777.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Aarhus airport is 2777.0. <S> [['Aarhus Airport', 'runway Length', '2777.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport runway name is 10L/28R. <S> [['Aarhus Airport', 'runway Name', '10L/28R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "10L/28R is the runway name of the Aarhus Airport. <S> [['Aarhus Airport', 'runway Name', '10L/28R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Aarhus Airport is 10L/28R. <S> [['Aarhus Airport', 'runway Name', '10L/28R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name at Aarhus Airport is '10R/28L'. <S> [['Aarhus Airport', 'runway Name', '10R/28L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "10R/28L is the runway name at Aarhus airport. <S> [['Aarhus Airport', 'runway Name', '10R/28L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Aarhus Airport is 10R/28L. <S> [['Aarhus Airport', 'runway Name', '10R/28L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is in the United States. <S> [['Abilene Texas', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Texas is in the United States. <S> [['Abilene Texas', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is located in the United States. <S> [['Abilene Texas', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is part of Jones County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Jones County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene is part of Jones County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Jones County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is part of Taylor County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Taylor County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene is a part of Taylor County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Taylor County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is part of Texas. <S> [['Abilene Texas', 'is Part Of', 'Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene is part of Texas. <S> [['Abilene Texas', 'is Part Of', 'Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the 1st runway at Abilene Regional airport is 3678 feet. <S> [['Abilene Regional Airport', '1st Runway Length Feet', '3678']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway at Abilene Regional Airport is made from asphalt. <S> [['Abilene Regional Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Abilene Regional Airport is made of Asphalt. <S> [['Abilene Regional Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The third runway at Abilene Regional Airport is 7,202 feet long. <S> [['Abilene Regional Airport', '3rd Runway Length Feet', '7202']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 3rd runway at Abilene Regional airport is 7202 feet. <S> [['Abilene Regional Airport', '3rd Runway Length Feet', '7202']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Abilene Regional Airport's 3rd runway length is ft is 7202. <S> [['Abilene Regional Airport', '3rd Runway Length Feet', '7202']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Regional Airport ICAO Location Identifier is KABI. <S> [['Abilene Regional Airport', 'icao Location Identifier', 'KABI']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "KABI is the ICAO location identifier of Abilene Regional Airport. <S> [['Abilene Regional Airport', 'icao Location Identifier', 'KABI']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The ICAO Location Identifier of Abilene Regional Airport is KABI. <S> [['Abilene Regional Airport', 'icao Location Identifier', 'KABI']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Regional Airport elevation above the sea level in metres is 546. <S> [['Abilene Regional Airport', 'elevation Above The Sea Level', '546']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Abilene Regional Airport is 546 metres above sea level. <S> [['Abilene Regional Airport', 'elevation Above The Sea Level', '546']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Regional Airport is located 546 metres above sea level. <S> [['Abilene Regional Airport', 'elevation Above The Sea Level', '546']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier for Abilene Regional airport is ABI. <S> [['Abilene Regional Airport', 'location Identifier', 'ABI']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Abilene Regional Airport's location id is 'ABI'. <S> [['Abilene Regional Airport', 'location Identifier', 'ABI']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location Identifier of Abilene Regional Airport is ABI. <S> [['Abilene Regional Airport', 'location Identifier', 'ABI']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Abilene Regional Airport is 1,121. <S> [['Abilene Regional Airport', 'runway Length', '1121.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Regional airport has a runway length of 1121.0. <S> [['Abilene Regional Airport', 'runway Length', '1121.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Abilene Regional Airport is 1121.0. <S> [['Abilene Regional Airport', 'runway Length', '1121.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Abilene Regional Airport is 2194.0. <S> [['Abilene Regional Airport', 'runway Length', '2194.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Abilene Regional Airport is 2,195. <S> [['Abilene Regional Airport', 'runway Length', '2195.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Abilene Regional Airport is 2195.0. <S> [['Abilene Regional Airport', 'runway Length', '2195.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Regional Airport runway name is 17L/35R. <S> [['Abilene Regional Airport', 'runway Name', '17L/35R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "17L/35R is the runway name of Abilene Regional Airport. <S> [['Abilene Regional Airport', 'runway Name', '17L/35R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Regional Airport has the runway name 17L/35R. <S> [['Abilene Regional Airport', 'runway Name', '17L/35R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "17R/35L is the runway name at Abilene Regional airport. <S> [['Abilene Regional Airport', 'runway Name', '17R/35L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The name of the runway at Abilene Regional Airport is 17R/35L. <S> [['Abilene Regional Airport', 'runway Name', '17R/35L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Abilene Regional Airport is 17R/35L. <S> [['Abilene Regional Airport', 'runway Name', '17R/35L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the first runway at Adirondack Regional Airport is 6,573 feet. <S> [['Adirondack Regional Airport', '1st Runway Length Feet', '6573']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "6573 feet is the length of the first runway at Adirondack Regional Airport. <S> [['Adirondack Regional Airport', '1st Runway Length Feet', '6573']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway length in feet of Adirondack Regional Airport is 6573. <S> [['Adirondack Regional Airport', '1st Runway Length Feet', '6573']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Lake Placid, N.Y. is served by the Adirondack Regional Airport. <S> [['Adirondack Regional Airport', 'city Served', 'Lake Placid New York']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adirondack Regional Airport serves the city of Lake Placid, New York. <S> [['Adirondack Regional Airport', 'city Served', 'Lake Placid New York']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adirondack Regional Airport serves the city of Saranac Lake, New York. <S> [['Adirondack Regional Airport', 'city Served', 'Saranac Lake New York']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adirondack Regional Airport location identifier is SLK. <S> [['Adirondack Regional Airport', 'location Identifier', 'SLK']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "SLK is the I.D. of the Adirondack Regional Airport. <S> [['Adirondack Regional Airport', 'location Identifier', 'SLK']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Adirondack Regional Airport location identifier is SLK. <S> [['Adirondack Regional Airport', 'location Identifier', 'SLK']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adirondack Regional Airport is 1,219. <S> [['Adirondack Regional Airport', 'runway Length', '1219.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Adirondack Regional Airport is 1219.0. <S> [['Adirondack Regional Airport', 'runway Length', '1219.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adirondack Regional Airport is 1219.0. <S> [['Adirondack Regional Airport', 'runway Length', '1219.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adirondack Regional Airport is 2003.0. <S> [['Adirondack Regional Airport', 'runway Length', '2003.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Adirondack Regional Airport is 2003.0. <S> [['Adirondack Regional Airport', 'runway Length', '2003.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid-Barajas Airport has an elevation of 610.0 metres above sea level. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'elevation Above The Sea Level', '610.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'elevation Above The Sea Level', '610.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Alcobendas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid Barajas Airport is found in Alcobendas. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Alcobendas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid–Barajas Airport is located in Alcobendas. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Alcobendas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid–Barajas Airport is found in Madrid. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Adolfo Suárez Madrid–Barajas Airport is in Madrid. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suarez Madrid-Barajas Airport is located in Madrid. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid–Barajas Airport can be found in Paracuellos de Jarama. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Paracuellos de Jarama']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suarez Madrid-Barajas airport is located at Paracuellos de Jarama. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Paracuellos de Jarama']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Adolfo Suárez Madrid–Barajas Airport is in Paracuellos de Jarama. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'location', 'Paracuellos de Jarama']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'operating Organisation', 'ENAIRE']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas airport. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'operating Organisation', 'ENAIRE']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suarez Madrid-Barajas Airport is operated by ENAIRE. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'operating Organisation', 'ENAIRE']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adolfo Suárez Madrid–Barajas Airport is 3,500. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '3500.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Adolfo Suarez Madrid-Barajas airport is 3500.0. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '3500.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Adolfo Suárez Madrid–Barajas Airport's runway length is 3500. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '3500.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adolfo Suárez Madrid–Barajas Airport is 4,100. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '4100.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adolfo Suarez Madrid-Barajas airport is 4100.0. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '4100.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Adolfo Suarez Madrid Barajas Airport is 4100.0. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '4100.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adolfo Suárez Madrid–Barajas Airport is 4,349. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '4349.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Adolfo Suárez Madrid–Barajas Airport has a runway that is 4349 metres long. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '4349.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Length', '4349.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "18R/36L is the runway name of the Adolfo Suárez Madrid-Barajas Airport. <S> [['Adolfo Suarez Madrid-Barajas Airport', 'runway Name', '18R/36L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport is elevated 2988 feet above sea level. <S> [['Afonso Pena International Airport', 'elevation Above The Sea Level In Feet', '2988']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport has an elevation above the sea level (in feet) of 2988. <S> [['Afonso Pena International Airport', 'elevation Above The Sea Level In Feet', '2988']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International airport is located 911 metres above sea level. <S> [['Afonso Pena International Airport', 'elevation Above The Sea Level', '911.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport has the elevation of 911 meters above the sea level. <S> [['Afonso Pena International Airport', 'elevation Above The Sea Level', '911.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport is 911.0 metres above sea level. <S> [['Afonso Pena International Airport', 'elevation Above The Sea Level', '911.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location of Afonso Pena International airport is Sao Jose dos Pinhais. <S> [['Afonso Pena International Airport', 'location', 'Sao Jose dos Pinhais']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport is located in São José dos Pinhais. <S> [['Afonso Pena International Airport', 'location', 'Sao Jose dos Pinhais']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport is located in Sao Jose dos Pinhais. <S> [['Afonso Pena International Airport', 'location', 'Sao Jose dos Pinhais']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Afonso Pena International airport is 1800.0. <S> [['Afonso Pena International Airport', 'runway Length', '1800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Afonso Pena International Airport is 1800 meters long. <S> [['Afonso Pena International Airport', 'runway Length', '1800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Afonso Pena International Airport is 1800.0. <S> [['Afonso Pena International Airport', 'runway Length', '1800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport runway length is 2215.0. <S> [['Afonso Pena International Airport', 'runway Length', '2215.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport has a runway length of 2215.0. <S> [['Afonso Pena International Airport', 'runway Length', '2215.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Afonso Pena International Airport is 2215.0. <S> [['Afonso Pena International Airport', 'runway Length', '2215.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Afonso Pena International Airport has the runway name 11/29. <S> [['Afonso Pena International Airport', 'runway Name', '11/29']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Afonso Pena International Airport is 15/33. <S> [['Afonso Pena International Airport', 'runway Name', '15/33']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "15/33 is the runway name at Afonso Pena International airport. <S> [['Afonso Pena International Airport', 'runway Name', '15/33']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Afonso Pena International Airport's runway name is '15/33'. <S> [['Afonso Pena International Airport', 'runway Name', '15/33']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport IATA Location Identifier is AGR. <S> [['Agra Airport', 'iata Location Identifier', 'AGR']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "AGR is the IATA I.D. of the Agra Airport. <S> [['Agra Airport', 'iata Location Identifier', 'AGR']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "AGR is the ATA Location Identifier for Agra Airport. <S> [['Agra Airport', 'iata Location Identifier', 'AGR']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier for Agra Airport is VIAG. <S> [['Agra Airport', 'icao Location Identifier', 'VIAG']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Agra Airport's ICAO location identifier is 'VIAG'. <S> [['Agra Airport', 'icao Location Identifier', 'VIAG']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The ICAO Location Identifier of Agra Airport is VIAG. <S> [['Agra Airport', 'icao Location Identifier', 'VIAG']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport is elevated 167.94 metres above sea level. <S> [['Agra Airport', 'elevation Above The Sea Level', '167.94']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The elevation above the sea level (in metres) of Agra Airport is 167.94. <S> [['Agra Airport', 'elevation Above The Sea Level', '167.94']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport is in India. <S> [['Agra Airport', 'location', 'India']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra airport is located in India. <S> [['Agra Airport', 'location', 'India']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport is in Uttar Pradesh. <S> [['Agra Airport', 'location', 'Uttar Pradesh']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport is located in Uttar Pradesh. <S> [['Agra Airport', 'location', 'Uttar Pradesh']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Kheria Air Force Station is the native name of Agra Airport. <S> [['Agra Airport', 'native Name', 'Kheria Air Force Station']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The native name of Agra Airport is Kheria Air Force Station. <S> [['Agra Airport', 'native Name', 'Kheria Air Force Station']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Airports Authority of India is the operating organisation of Agra Airport. <S> [['Agra Airport', 'operating Organisation', 'Airports Authority of India']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport is operated by the Airports Authority of India. <S> [['Agra Airport', 'operating Organisation', 'Airports Authority of India']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The operating organization for Agra Airport is the Indian Air Force. <S> [['Agra Airport', 'operating Organisation', 'Indian Air Force']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Indian Air Force operates the Agra Airport. <S> [['Agra Airport', 'operating Organisation', 'Indian Air Force']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport is operated by the Indian Air Force. <S> [['Agra Airport', 'operating Organisation', 'Indian Air Force']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "1818 is the length of the runway of Agra Airport. <S> [['Agra Airport', 'runway Length', '1818.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Agra Airport is 1818.0. <S> [['Agra Airport', 'runway Length', '1818.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Agra Airport's runway length is 2743.0. <S> [['Agra Airport', 'runway Length', '2743.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Taqaddum Air Base is located in Habbaniyah. <S> [['Al-Taqaddum Air Base', 'location', 'Habbaniyah']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location of Al-Taqaddum Air Base is Habbaniyah. <S> [['Al-Taqaddum Air Base', 'location', 'Habbaniyah']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier for Al-Taqaddum air base is MAT. <S> [['Al-Taqaddum Air Base', 'location Identifier', 'MAT']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier of Al Taqaddum Air Base is MAT. <S> [['Al-Taqaddum Air Base', 'location Identifier', 'MAT']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al-Taqaddum Air Base is 4,019. <S> [['Al-Taqaddum Air Base', 'runway Length', '4019.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al-Taqaddum air base is 4019.0. <S> [['Al-Taqaddum Air Base', 'runway Length', '4019.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al Taqaddum Air Base is 4019.0. <S> [['Al-Taqaddum Air Base', 'runway Length', '4019.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "ORAA is the ICAO location identifier of Al Asad Airbase. <S> [['Al Asad Airbase', 'icao Location Identifier', 'ORAA']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The ICAO Location Identifier of Al Asad Airbase is ORAA. <S> [['Al Asad Airbase', 'icao Location Identifier', 'ORAA']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase is 618 feet above sea level. <S> [['Al Asad Airbase', 'elevation Above The Sea Level In Feet', '618']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Al Asad Airbase is 618 ft above sea level. <S> [['Al Asad Airbase', 'elevation Above The Sea Level In Feet', '618']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase has an elevation above the sea level (in feet) of 618. <S> [['Al Asad Airbase', 'elevation Above The Sea Level In Feet', '618']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Al Asad Airbase is situated in the Al Anbar Province, Iraq. <S> [['Al Asad Airbase', 'location', 'Al Anbar Province Iraq']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad airbase is located at Al Anbar Province, Iraq. <S> [['Al Asad Airbase', 'location', 'Al Anbar Province Iraq']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase is located in Al Anbar Province, Iraq. <S> [['Al Asad Airbase', 'location', 'Al Anbar Province Iraq']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase is found in Iraq. <S> [['Al Asad Airbase', 'location', 'Iraq']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Al Asad Airbase is in Iraq. <S> [['Al Asad Airbase', 'location', 'Iraq']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase is in Iraq. <S> [['Al Asad Airbase', 'location', 'Iraq']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase is operated by the United States Air Force. <S> [['Al Asad Airbase', 'operating Organisation', 'United States Air Force']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The United States Air Force is the operating organisation for Al Asad airbase. <S> [['Al Asad Airbase', 'operating Organisation', 'United States Air Force']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al Asad Airbase is 3078.48. <S> [['Al Asad Airbase', 'runway Length', '3078.48']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase has a runway length of 3078.48. <S> [['Al Asad Airbase', 'runway Length', '3078.48']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al Asad Airbase is 3090 meters. <S> [['Al Asad Airbase', 'runway Length', '3090.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Al Asad airbase is 3090.0. <S> [['Al Asad Airbase', 'runway Length', '3090.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase's runway length is 3090.0. <S> [['Al Asad Airbase', 'runway Length', '3090.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al Asad Airbase is 3,990. <S> [['Al Asad Airbase', 'runway Length', '3990.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al Asad Airbase is 3990.0. <S> [['Al Asad Airbase', 'runway Length', '3990.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Al Asad Airbase has a runway length of 3990.0. <S> [['Al Asad Airbase', 'runway Length', '3990.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Al Asad Airbase is 3,992.88. <S> [['Al Asad Airbase', 'runway Length', '3992.88']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "3992.88 is the length of the runway at Al Asad Airbase. <S> [['Al Asad Airbase', 'runway Length', '3992.88']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "''08/26'' is the runway name at Al Asad Airbase. <S> [['Al Asad Airbase', 'runway Name', '08/26']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "08/26 is the runway name of the Al Asad Airbase. <S> [['Al Asad Airbase', 'runway Name', '08/26']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Al Asad Airbase is 08/26. <S> [['Al Asad Airbase', 'runway Name', '08/26']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Al Asad Airbase is 09L/27R. <S> [['Al Asad Airbase', 'runway Name', '09L/27R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Al Asad Airbase's runway name is '09L/27R'. <S> [['Al Asad Airbase', 'runway Name', '09L/27R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "09R/27L is the runway name at Al Asad airbase. <S> [['Al Asad Airbase', 'runway Name', '09R/27L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The name of the runway at al Asad Airbase is 09R/27L. <S> [['Al Asad Airbase', 'runway Name', '09R/27L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Al Asad Airbase has the runway name 09R/27L. <S> [['Al Asad Airbase', 'runway Name', '09R/27L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alcobendas is located in Spain. <S> [['Alcobendas', 'country', 'Spain']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alcobendas is in Spain. <S> [['Alcobendas', 'country', 'Spain']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alcobendas is part of Community of Madrid. <S> [['Alcobendas', 'is Part Of', 'Community of Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alcobendas is part of the community of Madrid. <S> [['Alcobendas', 'is Part Of', 'Community of Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader party at Alcobendas is the Peoples Party (Spain). <S> [['Alcobendas', 'leader Party', 'People's Party Spain']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Saint Anne is the capital of Alderney. <S> [['Alderney', 'capital', 'Saint Anne Alderney']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The main language spoken on Alderney is English. <S> [['Alderney', 'language', 'English language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The English language is spoken in Alderney. <S> [['Alderney', 'language', 'English language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney uses the English language. <S> [['Alderney', 'language', 'English language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney's leader name is Elizabeth II. <S> [['Alderney', 'leader', 'Elizabeth II']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney's leader is Elizabeth II. <S> [['Alderney', 'leader', 'Elizabeth II']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader's name of Alderney is Elizabeth II. <S> [['Alderney', 'leader', 'Elizabeth II']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway at Alderney Airport is made of asphalt. <S> [['Alderney Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Alderney airport has an asphalt surface. <S> [['Alderney Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Alderney Airport is made from Asphalt. <S> [['Alderney Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The surface of the 1st runway at Alderney airport is poaceae. <S> [['Alderney Airport', '1st Runway Surface Type', 'Poaceae']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Alderney Airport is made from Poaceae. <S> [['Alderney Airport', '1st Runway Surface Type', 'Poaceae']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney Airport is 88 metres above sea level. <S> [['Alderney Airport', 'elevation Above The Sea Level', '88.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Alderney Airport elevation above the sea level (in meters) is 88. <S> [['Alderney Airport', 'elevation Above The Sea Level', '88.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney Airport has a runway length of 497.0. <S> [['Alderney Airport', 'runway Length', '497.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Alderney Airport is 497.0. <S> [['Alderney Airport', 'runway Length', '497.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Alderney Airport runway has a length of 733.0. <S> [['Alderney Airport', 'runway Length', '733.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Alderney Airport is 877. <S> [['Alderney Airport', 'runway Length', '877.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney Airport's runway has a length of 877.0. <S> [['Alderney Airport', 'runway Length', '877.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Alderney Airport is 877.0. <S> [['Alderney Airport', 'runway Length', '877.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alderney Airport runway name is 03/21. <S> [['Alderney Airport', 'runway Name', '03/21']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Alderney Airport is 03/21. <S> [['Alderney Airport', 'runway Name', '03/21']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Alderney Airport is named 03/21. <S> [['Alderney Airport', 'runway Name', '03/21']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "08/26 is the runway name of Alderney Airport. <S> [['Alderney Airport', 'runway Name', '08/26']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Alderney Airport is 08/26. <S> [['Alderney Airport', 'runway Name', '08/26']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International Airport serves the city of Lahore. <S> [['Allama Iqbal International Airport', 'city Served', 'Lahore']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The city of Lahore is served by Allama Iqbal International airport. <S> [['Allama Iqbal International Airport', 'city Served', 'Lahore']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International airport is located in Pakistan. <S> [['Allama Iqbal International Airport', 'location', 'Pakistan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International Airport is found in Punjab, Pakistan. <S> [['Allama Iqbal International Airport', 'location', 'Punjab Pakistan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International Airport is located in Punjab, Pakistan. <S> [['Allama Iqbal International Airport', 'location', 'Punjab Pakistan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International airport is located in Punjab Pakistan. <S> [['Allama Iqbal International Airport', 'location', 'Punjab Pakistan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport. <S> [['Allama Iqbal International Airport', 'operating Organisation', 'Pakistan Civil Aviation Authority']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport. <S> [['Allama Iqbal International Airport', 'operating Organisation', 'Pakistan Civil Aviation Authority']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International Airport is operated by Pakistan Civil Aviation Authority. <S> [['Allama Iqbal International Airport', 'operating Organisation', 'Pakistan Civil Aviation Authority']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Allama Iqbal International Airport is 2900.0. <S> [['Allama Iqbal International Airport', 'runway Length', '2900.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Allama Iqbal International Airport is 3,310. <S> [['Allama Iqbal International Airport', 'runway Length', '3310.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Allama Iqbal International airport has a runway length of 3310.0. <S> [['Allama Iqbal International Airport', 'runway Length', '3310.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Allama Iqbal International Airport is 3310.0. <S> [['Allama Iqbal International Airport', 'runway Length', '3310.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name at Allama Iqbal International airport is 18L/36R. <S> [['Allama Iqbal International Airport', 'runway Name', '18L/36R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Allama Iqbal International Airport's runway name is '18L/36R'. <S> [['Allama Iqbal International Airport', 'runway Name', '18L/36R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Allama Iqbal International Airport is 18L/36R. <S> [['Allama Iqbal International Airport', 'runway Name', '18L/36R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena Michigan is a country in United States. <S> [['Alpena Michigan', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena, Michigan is in the U.S. <S> [['Alpena Michigan', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena, Michigan is located in the United States. <S> [['Alpena Michigan', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the first runway of Alpena County Regional Airport is 9001. <S> [['Alpena County Regional Airport', '1st Runway Length Feet', '9001']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway length in feet of Alpena County Regional Airport is 9001. <S> [['Alpena County Regional Airport', '1st Runway Length Feet', '9001']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport city served Alpena, Michigan. <S> [['Alpena County Regional Airport', 'city Served', 'Alpena Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport serves the city of Alpena, Michigan. <S> [['Alpena County Regional Airport', 'city Served', 'Alpena Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport serves Alpena, Michigan. <S> [['Alpena County Regional Airport', 'city Served', 'Alpena Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport elevation above the sea level in metres is 210. <S> [['Alpena County Regional Airport', 'elevation Above The Sea Level', '210']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport has an elevation of 210 metres above sea level. <S> [['Alpena County Regional Airport', 'elevation Above The Sea Level', '210']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport is elevated 210 metres above sea level. <S> [['Alpena County Regional Airport', 'elevation Above The Sea Level', '210']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport is found in Maple Ridge Township, Alpena County in Michigan. <S> [['Alpena County Regional Airport', 'location', 'Maple Ridge Township Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location of Alpena County Regional Airport is Maple Ridge Township, Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'location', 'Maple Ridge Township Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'location', 'Maple Ridge Township Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport is found in Wilson Township, Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'location', 'Wilson Township Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'location', 'Wilson Township Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location of Alpena County Regional Airport is Wilson Township, Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'location', 'Wilson Township Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier of Alpena County Regional airport is APN. <S> [['Alpena County Regional Airport', 'location Identifier', 'APN']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Alpena County Regional Airport's location id is 'APN'. <S> [['Alpena County Regional Airport', 'location Identifier', 'APN']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier of Alpena County Regional Airport is APN. <S> [['Alpena County Regional Airport', 'location Identifier', 'APN']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport owner is Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'owner', 'Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County, Michigan is the owner of the Alpena County Regional Airport. <S> [['Alpena County Regional Airport', 'owner', 'Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The owner of Alpena County Regional Airport is Alpena County, Michigan. <S> [['Alpena County Regional Airport', 'owner', 'Alpena County Michigan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alpena County Regional Airport's runway length is 2744.0. <S> [['Alpena County Regional Airport', 'runway Length', '2744.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Alpena County Regional Airport is 2744 meters long. <S> [['Alpena County Regional Airport', 'runway Length', '2744.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Alpena County Regional Airport is 2744.0. <S> [['Alpena County Regional Airport', 'runway Length', '2744.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "7/25 is the runway name of Alpena County Regional Airport. <S> [['Alpena County Regional Airport', 'runway Name', '7/25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Alpena County Regional Airport is 7/25. <S> [['Alpena County Regional Airport', 'runway Name', '7/25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam's leader is Eberhard van der Laan. <S> [['Amsterdam', 'leader', 'Eberhard van der Laan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Eberhard van der Laan is the name of the leader of Amsterdam. <S> [['Amsterdam', 'leader', 'Eberhard van der Laan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader of Amsterdam is Eberhard van der Laan. <S> [['Amsterdam', 'leader', 'Eberhard van der Laan']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the first runway at Amsterdam Airport Schiphol is 3800 metres. <S> [['Amsterdam Airport Schiphol', '1st Runway Length Metre', '3800']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the 1st runway at Amsterdam airport Schiphol is 3800 metres. <S> [['Amsterdam Airport Schiphol', '1st Runway Length Metre', '3800']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the first runway at Amsterdam Airport Schiphol is 3800 meters. <S> [['Amsterdam Airport Schiphol', '1st Runway Length Metre', '3800']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway at Amsterdam's Schiphol Airport is made from asphalt. <S> [['Amsterdam Airport Schiphol', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway of Amsterdam Airport Schiphol is made in asphalt. <S> [['Amsterdam Airport Schiphol', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Amsterdam Airport Schiphol is made from Asphalt. <S> [['Amsterdam Airport Schiphol', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The fourth runway at Schiphol Airport in Amsterdam is made of asphalt. <S> [['Amsterdam Airport Schiphol', '4th Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 4th runway at Amsterdam Airport Schiphol has a surface of asphalt. <S> [['Amsterdam Airport Schiphol', '4th Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol is 5th runway number 18. <S> [['Amsterdam Airport Schiphol', '5th Runway Number', '18']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "18 is the number of the fifth runway of Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', '5th Runway Number', '18']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Schiphols Airport's 5th runway has the number 18. <S> [['Amsterdam Airport Schiphol', '5th Runway Number', '18']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol is -3.3528 metres above sea level. <S> [['Amsterdam Airport Schiphol', 'elevation Above The Sea Level', '-3.3528']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam airport Schiphol is -3.3528 above sea level. <S> [['Amsterdam Airport Schiphol', 'elevation Above The Sea Level', '-3.3528']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol is at an elevation of -3.3528 from sea level. <S> [['Amsterdam Airport Schiphol', 'elevation Above The Sea Level', '-3.3528']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam's Schiphol Airport is located in Haarlemmermeer. <S> [['Amsterdam Airport Schiphol', 'location', 'Haarlemmermeer']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Amsterdam Airport Schiphol is in Haarlemmermeer. <S> [['Amsterdam Airport Schiphol', 'location', 'Haarlemmermeer']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol is located in Haarlemmermeer. <S> [['Amsterdam Airport Schiphol', 'location', 'Haarlemmermeer']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol operating organization is Schiphol Group. <S> [['Amsterdam Airport Schiphol', 'operating Organisation', 'Schiphol Group']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Schiphol Group operates the Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', 'operating Organisation', 'Schiphol Group']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Amsterdam Airport Schiphol is run by the operation organisation the Schiphol Group. <S> [['Amsterdam Airport Schiphol', 'operating Organisation', 'Schiphol Group']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Amsterdam Airport Schiphol is 2014.0 meters. <S> [['Amsterdam Airport Schiphol', 'runway Length', '2014.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Amsterdam airport, Schiphol is 2014.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '2014.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol's runway length is 2014.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '2014.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Amsterdam airport Schiphol is 3300.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3300.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Amsterdam Airport Schiphol's runway length is 3300. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3300.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Amsterdam Airport Schiphol is 3300.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3300.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Amsterdam Airport Schiphol is 3400.0 metres. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3400.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Amsterdam Airport, Schiphol is 3400.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3400.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol's runway length is 3400.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3400.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Amsterdam's Schiphol Airport is 3,453. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3453.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Amsterdam Airport Schiphol is 3453.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3453.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Amsterdam Airport Schiphol is 3453.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3453.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam's Schiphol Airport has a runway length of 3,500. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3500.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Amsterdam Airport Schiphol is 3500.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3500.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Amsterdam Airport Schiphol is 3800.0 metres. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Amsterdam Airport Schiphol is 3800.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol's runway length is 3800.0. <S> [['Amsterdam Airport Schiphol', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol runway name is 04/22 Oostbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '04/22 'Oostbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "04/22 Oostbaan is the runway name of Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', 'runway Name', '04/22 'Oostbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Amsterdam Airport Schiphol is 04/22 'Oostbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '04/22 'Oostbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol runway name is 09/27 Buitenveldertbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '09/27 'Buitenveldertbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "09/27 Buitenveldertbaan is the runway name of the Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', 'runway Name', '09/27 'Buitenveldertbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Schiphol Airport has a runway named 09/27 Buitenveldertbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '09/27 'Buitenveldertbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Amsterdam's Schiphol Airport is 18C/36C Zwanenburgbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18C/36C 'Zwanenburgbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18C/36C 'Zwanenburgbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Amsterdam Airport Schiphol is 18C/36C Zwanenburgbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18C/36C 'Zwanenburgbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Airport Schiphol runway name is 18L/36R Aalsmeerbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18L/36R 'Aalsmeerbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "18L/36R Aalsmeerbaan is the runway name of Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18L/36R 'Aalsmeerbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Amsterdam Schiphol Airport has the runway name 18L/36R 'Aalsmeerbaan'. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18L/36R 'Aalsmeerbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "18R/36L Polderbaan is the runway name at Amsterdam Airport Schiphol. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18R/36L 'Polderbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Amsterdam Schiphol Airport is called 18R/36L Polderbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18R/36L 'Polderbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Amsterdam Airport Schiphol is 18R/36L Polderbaan. <S> [['Amsterdam Airport Schiphol', 'runway Name', '18R/36L 'Polderbaan'']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The largest city in Andrews County, Texas is Andrews. <S> [['Andrews County Texas', 'largest City', 'Andrews Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews, Texas is the largest city in Andrews County, Texas. <S> [['Andrews County Texas', 'largest City', 'Andrews Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The third runway length of Andrews County Airport is 2,939 feet. <S> [['Andrews County Airport', '3rd Runway Length Feet', '2939']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Andrews County Airport's 3rd runway length in ft is 2939. <S> [['Andrews County Airport', '3rd Runway Length Feet', '2939']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the 3rd runway at Andrews County Airport is 2939 feet. <S> [['Andrews County Airport', '3rd Runway Length Feet', '2939']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport is 4th runway length feet of 25. <S> [['Andrews County Airport', '4th Runway Length Feet', '25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The fourth runway at Andrews County Airport is 25 feet long. <S> [['Andrews County Airport', '4th Runway Length Feet', '25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport's 4th runway has a length in feet of 25. <S> [['Andrews County Airport', '4th Runway Length Feet', '25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The fourth runway at Andrews County Airport is made from asphalt. <S> [['Andrews County Airport', '4th Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Andrews County Airport fourth runway is made of asphalt. <S> [['Andrews County Airport', '4th Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 4th runway at Andrews County Airport is made of Asphalt. <S> [['Andrews County Airport', '4th Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport is located in Texas. <S> [['Andrews County Airport', 'location', 'Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport location identifier is E11. <S> [['Andrews County Airport', 'location Identifier', 'E11']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "E11 is the location identifier of Andrews County Airport. <S> [['Andrews County Airport', 'location Identifier', 'E11']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport is located in E11. <S> [['Andrews County Airport', 'location Identifier', 'E11']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Andrews County Airport is 1773 metres. <S> [['Andrews County Airport', 'runway Length', '1773.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Andrews County airport is 1773.0. <S> [['Andrews County Airport', 'runway Length', '1773.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport's runway length is 1773.0. <S> [['Andrews County Airport', 'runway Length', '1773.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport runway is 8 meters long. <S> [['Andrews County Airport', 'runway Length', '8.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Andrews County Airport is 8.0. <S> [['Andrews County Airport', 'runway Length', '8.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport runway length is 8.0. <S> [['Andrews County Airport', 'runway Length', '8.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Andrews County airport is 929.0. <S> [['Andrews County Airport', 'runway Length', '929.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Andrews County Airport's runway length is 929. <S> [['Andrews County Airport', 'runway Length', '929.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Andrews County Airport's runway name is 16/34. <S> [['Andrews County Airport', 'runway Name', '16/34']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "16/34 is the runway name of Andrews County Airport. <S> [['Andrews County Airport', 'runway Name', '16/34']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Andrews County Airport is 2/20. <S> [['Andrews County Airport', 'runway Name', '2/20']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "2/20 is the name of the runway of Andrews County Airport. <S> [['Andrews County Airport', 'runway Name', '2/20']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the first runway at Angola International Airport is 13,123 feet. <S> [['Angola International Airport', '1st Runway Length Feet', '13123']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway of Angola International Airport is 13123 feet long. <S> [['Angola International Airport', '1st Runway Length Feet', '13123']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway length in feet of Angola International Airport is 13123. <S> [['Angola International Airport', '1st Runway Length Feet', '13123']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International Airport 1st runway is Number 5. <S> [['Angola International Airport', '1st Runway Number', '5']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "5 is the number of the first runway of Angola International Airport. <S> [['Angola International Airport', '1st Runway Number', '5']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International Airport's 1st runway has the number 5. <S> [['Angola International Airport', '1st Runway Number', '5']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International airport is 159 metres above sea level. <S> [['Angola International Airport', 'elevation Above The Sea Level In Metres', '159']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Angola International Airport is 159 meters above sea level. <S> [['Angola International Airport', 'elevation Above The Sea Level In Metres', '159']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International Airport is 159 metres above the sea level. <S> [['Angola International Airport', 'elevation Above The Sea Level In Metres', '159']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International Airport is located at Ícolo e Bengo. <S> [['Angola International Airport', 'location', 'Icolo e Bengo']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International airport is located in Icolo e Bengo. <S> [['Angola International Airport', 'location', 'Icolo e Bengo']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Angola International Airport is located in Ícolo e Bengo. <S> [['Angola International Airport', 'location', 'Icolo e Bengo']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Angola International Airport is 3,800. <S> [['Angola International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Angola International airport is 3800 long. <S> [['Angola International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Angola International Airport is 3800.0. <S> [['Angola International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "4000ft is the runway length at Angola International Airport. <S> [['Angola International Airport', 'runway Length', '4000.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Angola International Airport is 4000 length. <S> [['Angola International Airport', 'runway Length', '4000.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Angola International Airport is 4000.0. <S> [['Angola International Airport', 'runway Length', '4000.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Angola International Airport is called '05L/23R'. <S> [['Angola International Airport', 'runway Name', '05L/23R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "05L/23R is the runway name at Angola International airport. <S> [['Angola International Airport', 'runway Name', '05L/23R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Angola International Airport is named 05L/23R. <S> [['Angola International Airport', 'runway Name', '05L/23R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "'South Runway' is a runway name at Angola International airport. <S> [['Angola International Airport', 'runway Name', 'South Runway']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Angola International Airport is named South Runway. <S> [['Angola International Airport', 'runway Name', 'South Runway']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The name of Angola International Airport runway is 'South Runway'. <S> [['Angola International Airport', 'runway Name', 'South Runway']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp is admin Arrondissement of Arrondissement. <S> [['Antwerp', 'administrative Arrondissement', 'Arrondissement of Antwerp']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Arrondissement of Antwerp is the administrative arrondissement of Antwerp. <S> [['Antwerp', 'administrative Arrondissement', 'Arrondissement of Antwerp']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The administrative Arrondissement of Antwerp is the Arrondissement of Antwerp. <S> [['Antwerp', 'administrative Arrondissement', 'Arrondissement of Antwerp']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp is in the country of Belgium. <S> [['Antwerp', 'country', 'Belgium']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp is a popular tourist destination in Belgium. <S> [['Antwerp', 'country', 'Belgium']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp is in Belgium. <S> [['Antwerp', 'country', 'Belgium']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The mayor of Antwerp is Bart De Wever. <S> [['Antwerp', 'mayor', 'Bart De Wever']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Bart De Wever is the mayor of Antwerp. <S> [['Antwerp', 'mayor', 'Bart De Wever']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp International Airport serves the city of Antwerp. <S> [['Antwerp International Airport', 'city Served', 'Antwerp']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp is served by Antwerp International airport. <S> [['Antwerp International Airport', 'city Served', 'Antwerp']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp International Airport operation organization is Flemish department of mobility and public works. <S> [['Antwerp International Airport', 'operating Organisation', 'Flemish department of Mobility and Public Works']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Flemish Department of Mobility and Public Works operates the Antwerp International Airport. <S> [['Antwerp International Airport', 'operating Organisation', 'Flemish department of Mobility and Public Works']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport. <S> [['Antwerp International Airport', 'operating Organisation', 'Flemish department of Mobility and Public Works']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The owner of Antwerp International Airport is the Flemish Region. <S> [['Antwerp International Airport', 'owner', 'Flemish Region']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp International Airport is owned by Flemish Region. <S> [['Antwerp International Airport', 'owner', 'Flemish Region']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp International Airport is owned by the Flemish Region. <S> [['Antwerp International Airport', 'owner', 'Flemish Region']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Antwerp International airport is 1510.0. <S> [['Antwerp International Airport', 'runway Length', '1510.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Antwerp International Airport is 1510 meters. <S> [['Antwerp International Airport', 'runway Length', '1510.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Antwerp International Airport is 1510.0. <S> [['Antwerp International Airport', 'runway Length', '1510.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Antwerp International airport is 600.0 in length. <S> [['Antwerp International Airport', 'runway Length', '600.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Antwerp International Airport has a runway length of 600.0. <S> [['Antwerp International Airport', 'runway Length', '600.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Antwerp International Airport is 600.0. <S> [['Antwerp International Airport', 'runway Length', '600.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton, Wisconsin is part of Grand Chute, Wisconsin. <S> [['Appleton Wisconsin', 'is Part Of', 'Grand Chute Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton, Wisconsin is part of Kimberly, Wisconsin. <S> [['Appleton Wisconsin', 'is Part Of', 'Kimberly Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton, Wisconsin is part of little chute, Wisconsin. <S> [['Appleton Wisconsin', 'is Part Of', 'Little Chute Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton, Wisconsin, is part of Little Chute, Wisconsin. <S> [['Appleton Wisconsin', 'is Part Of', 'Little Chute Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Little Chute, Wisconsin is part of Appleton, Wisconsin. <S> [['Appleton Wisconsin', 'is Part Of', 'Little Chute Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International Airport is 1st 8002 runway length. <S> [['Appleton International Airport', '1st Runway Length Feet', '8002']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway of Appleton International Airport has a length of 8002 feet. <S> [['Appleton International Airport', '1st Runway Length Feet', '8002']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway length in feet of Appleton International Airport is 8002. <S> [['Appleton International Airport', '1st Runway Length Feet', '8002']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appletone International Airport city served Appleton, Wisconsin. <S> [['Appleton International Airport', 'city Served', 'Appleton Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International Airport serves the city of Appleton, Wisconsin. <S> [['Appleton International Airport', 'city Served', 'Appleton Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton, Wisconsin is a city which is served by Appleton International Airport. <S> [['Appleton International Airport', 'city Served', 'Appleton Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International Airport elevation above the sea level in metres is 280. <S> [['Appleton International Airport', 'elevation Above The Sea Level', '280']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International Airport has an elevation of 280 metres above sea level. <S> [['Appleton International Airport', 'elevation Above The Sea Level', '280']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International Airport is elevated 280 metres above sea level. <S> [['Appleton International Airport', 'elevation Above The Sea Level', '280']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International Airport can be found in Greenville, Wisconsin. <S> [['Appleton International Airport', 'location', 'Greenville Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Appleton International airport is located in Greenville, Wisconsin. <S> [['Appleton International Airport', 'location', 'Greenville Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Appleton International Airport is in Greenville, Wisconsin. <S> [['Appleton International Airport', 'location', 'Greenville Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier for Appleton International Airport is ATW. <S> [['Appleton International Airport', 'location Identifier', 'ATW']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Appleton International Airport's location id is 'ATW'. <S> [['Appleton International Airport', 'location Identifier', 'ATW']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location identifier of Appleton International Airport is ATW. <S> [['Appleton International Airport', 'location Identifier', 'ATW']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The operating organization for Appleton International Airport is in Outagamie County, Wisconsin. <S> [['Appleton International Airport', 'operating Organisation', 'Outagamie County Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Outagamie County, Wisconsin is the operating organisation of Appleton International Airport. <S> [['Appleton International Airport', 'operating Organisation', 'Outagamie County Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The operators of Appleton International Airport are in Outagamie County, Wisconsin. <S> [['Appleton International Airport', 'operating Organisation', 'Outagamie County Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Appleton International Airport is 1,982. <S> [['Appleton International Airport', 'runway Length', '1982.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Appleton International airport is 1982.0. <S> [['Appleton International Airport', 'runway Length', '1982.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Appleton International Airport's runway length is 1982. <S> [['Appleton International Airport', 'runway Length', '1982.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Appleton International Airport is 12/30. <S> [['Appleton International Airport', 'runway Name', '12/30']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "12/30 is the runway name of Appleton International Airport. <S> [['Appleton International Airport', 'runway Name', '12/30']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Appleton International Airport is 3/21. <S> [['Appleton International Airport', 'runway Name', '3/21']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "3/21 is the runway name of Appleton International Airport. <S> [['Appleton International Airport', 'runway Name', '3/21']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Poaceae is the surface type of the second runway of Ardmore Airport, New Zealand. <S> [['Ardmore Airport New Zealand', '2nd Runway Surface Type', 'Poaceae']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae. <S> [['Ardmore Airport New Zealand', '2nd Runway Surface Type', 'Poaceae']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 3rd runway at Ardmore Airport, New Zealand is 1960 feet in length. <S> [['Ardmore Airport New Zealand', '3rd Runway Length Feet', '1960']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Ardmore Airport in New Zealand's 3rd runway length in feet is 1960. <S> [['Ardmore Airport New Zealand', '3rd Runway Length Feet', '1960']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 3rd runway at Ardmore Airport (New Zealand) is 1960 feet long. <S> [['Ardmore Airport New Zealand', '3rd Runway Length Feet', '1960']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae. <S> [['Ardmore Airport New Zealand', '3rd Runway Surface Type', 'Poaceae']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae. <S> [['Ardmore Airport New Zealand', '3rd Runway Surface Type', 'Poaceae']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Ardmore Airport in New Zealand is 34 meters above sea level. <S> [['Ardmore Airport New Zealand', 'elevation Above The Sea Level', '34.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport, New Zealand is elevated 34.0 metres above sea level. <S> [['Ardmore Airport New Zealand', 'elevation Above The Sea Level', '34.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport, New Zealand. <S> [['Ardmore Airport New Zealand', 'operating Organisation', 'Civil Aviation Authority of New Zealand']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport in New Zeland is operated by the Civil Aviation Authority of New Zealand. <S> [['Ardmore Airport New Zealand', 'operating Organisation', 'Civil Aviation Authority of New Zealand']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport (New Zealand) is operated by the Civil Aviation Authority of New Zealand. <S> [['Ardmore Airport New Zealand', 'operating Organisation', 'Civil Aviation Authority of New Zealand']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Ardmore Airport in New Zealand is 1,411. <S> [['Ardmore Airport New Zealand', 'runway Length', '1411.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Ardmore airport, New Zealand is 1411.0. <S> [['Ardmore Airport New Zealand', 'runway Length', '1411.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Ardmore Airport of New Zealand's runway length is 1411. <S> [['Ardmore Airport New Zealand', 'runway Length', '1411.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport (New Zealand) runway length is 597.0. <S> [['Ardmore Airport New Zealand', 'runway Length', '597.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Ardmore Airport, New Zealand is 597.0. <S> [['Ardmore Airport New Zealand', 'runway Length', '597.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Ardmore Airport (New Zealand) is 597.0. <S> [['Ardmore Airport New Zealand', 'runway Length', '597.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "03L/21R is the runway name of Ardmore Airport in New Zealand. <S> [['Ardmore Airport New Zealand', 'runway Name', '03L/21R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "03L/21R is the runway name of Ardmore Airport, New Zealand. <S> [['Ardmore Airport New Zealand', 'runway Name', '03L/21R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name at Ardmore Airport (New Zealand) is 03L/21R. <S> [['Ardmore Airport New Zealand', 'runway Name', '03L/21R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway at Ardmore Airport in New Zealand is called '03R/21L'. <S> [['Ardmore Airport New Zealand', 'runway Name', '03R/21L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "03R/21L is a runway name at Ardmore Airport, New Zealand. <S> [['Ardmore Airport New Zealand', 'runway Name', '03R/21L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport (New Zealand)'s runway name is '03R/21L'. <S> [['Ardmore Airport New Zealand', 'runway Name', '03R/21L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ardmore Airport (New Zealand) runway name is 07/25. <S> [['Ardmore Airport New Zealand', 'runway Name', '07/25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "07/25 is the runway name of Ardmore Airport, New Zealand. <S> [['Ardmore Airport New Zealand', 'runway Name', '07/25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Ardmore Airport (New Zealand) is 07/25. <S> [['Ardmore Airport New Zealand', 'runway Name', '07/25']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the first runway at Ashgabat International Airport is 12467 feet. <S> [['Ashgabat International Airport', '1st Runway Length Feet', '12467']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Ashgabat International airport is 12467 feet in length. <S> [['Ashgabat International Airport', '1st Runway Length Feet', '12467']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport's 1st runway has a length of 12467 feet. <S> [['Ashgabat International Airport', '1st Runway Length Feet', '12467']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Ashgabat International Airport's 3rd runway length in ft is 2953. <S> [['Ashgabat International Airport', '3rd Runway Length Feet', '2953']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the 3rd runway at Ashgabat International Airport is 2953 feet. <S> [['Ashgabat International Airport', '3rd Runway Length Feet', '2953']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "ASB is the IATA location identifier for Ashgabat International airport. <S> [['Ashgabat International Airport', 'iata Location Identifier', 'ASB']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The IATA Location Identifier of Ashgabat International Airport is ASB. <S> [['Ashgabat International Airport', 'iata Location Identifier', 'ASB']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport is 211 metres above sea level. <S> [['Ashgabat International Airport', 'elevation Above The Sea Level In Metres', '211']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport is elevated 211 metres above sea level. <S> [['Ashgabat International Airport', 'elevation Above The Sea Level In Metres', '211']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport is located in Ashgabat. <S> [['Ashgabat International Airport', 'location', 'Ashgabat']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat is the location of Ashgabat International Airport. <S> [['Ashgabat International Airport', 'location', 'Ashgabat']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The operating organization for Ashgabat International Airport is called Turkmenistan Airlines. <S> [['Ashgabat International Airport', 'operating Organisation', 'Turkmenistan Airlines']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport is operated by Turkmenistan Airlines. <S> [['Ashgabat International Airport', 'operating Organisation', 'Turkmenistan Airlines']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Ashgabat International Airport is 2989.0 meters. <S> [['Ashgabat International Airport', 'runway Length', '2989.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Ashgabat International airport is 2989.0. <S> [['Ashgabat International Airport', 'runway Length', '2989.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The average runway length at Ashgabat International Airport is 2989.0 m. <S> [['Ashgabat International Airport', 'runway Length', '2989.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Ashgabat International airport is 3800.0. <S> [['Ashgabat International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport has a runway length of 3800.0. <S> [['Ashgabat International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Ashgabat International Airport is 3800.0. <S> [['Ashgabat International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Ashgabat International Airport is 900.0. <S> [['Ashgabat International Airport', 'runway Length', '900.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport's runway is 900 meters long. <S> [['Ashgabat International Airport', 'runway Length', '900.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Ashgabat International Airport is 900.0. <S> [['Ashgabat International Airport', 'runway Length', '900.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "12L/30R is the runway name of Ashgabat International Airport. <S> [['Ashgabat International Airport', 'runway Name', '12L/30R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Ashgabat International Airport is 12L/30R. <S> [['Ashgabat International Airport', 'runway Name', '12L/30R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "12R/30L is the runway name of the Ashgabat International Airport. <S> [['Ashgabat International Airport', 'runway Name', '12R/30L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport has the runway name 12R/30L. <S> [['Ashgabat International Airport', 'runway Name', '12R/30L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Ashgabat International Airport has a runway named 12R/30L. <S> [['Ashgabat International Airport', 'runway Name', '12R/30L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Athens is located in the country of Greece. <S> [['Athens', 'country', 'Greece']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Athens is a city in Greece. <S> [['Athens', 'country', 'Greece']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Athens International Airport serves the city of Athens. <S> [['Athens International Airport', 'city Served', 'Athens']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Athens International Airport serves the city of Athens. <S> [['Athens International Airport', 'city Served', 'Athens']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Athens International Airport is 94 metres above sea level. <S> [['Athens International Airport', 'elevation Above The Sea Level In Metres', '94']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The elevation above the sea level (in metres) of Athens International Airport is 94. <S> [['Athens International Airport', 'elevation Above The Sea Level In Metres', '94']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Athens International Airport is 3,800. <S> [['Athens International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Athens International Airport is 3800.0. <S> [['Athens International Airport', 'runway Length', '3800.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Athens International Airport is 4000.0. <S> [['Athens International Airport', 'runway Length', '4000.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Athens International Airport has a runway length of 4000.0. <S> [['Athens International Airport', 'runway Length', '4000.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City, New Jersey is in the U.S.A. <S> [['Atlantic City New Jersey', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City, New Jersey is in the United States. <S> [['Atlantic City New Jersey', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City, New Jersey is part of New Jersey. <S> [['Atlantic City New Jersey', 'is Part Of', 'New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader of Atlantic City, New Jersey is Don Guardian. <S> [['Atlantic City New Jersey', 'leader', 'Don Guardian']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader's name of Atlantic City, New Jersey, is Don Guardian. <S> [['Atlantic City New Jersey', 'leader', 'Don Guardian']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport's ICAO Location Identifier is KACY. <S> [['Atlantic City International Airport', 'icao Location Identifier', 'KACY']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "KACY is the ICAO Location Identifier of Atlantic City International Airport. <S> [['Atlantic City International Airport', 'icao Location Identifier', 'KACY']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Atlantic City International Airport serves Atlantic City, N.J. <S> [['Atlantic City International Airport', 'city Served', 'Atlantic City New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport serves the city of Atlantic City, New Jersey. <S> [['Atlantic City International Airport', 'city Served', 'Atlantic City New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The elevation above sea level for Atlantic City International Airport is 75ft. <S> [['Atlantic City International Airport', 'elevation Above The Sea Level In Feet', '75']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Atlantic City International Airport is 75 feet above sea level. <S> [['Atlantic City International Airport', 'elevation Above The Sea Level In Feet', '75']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport has an elevation of 75 feet above sea level. <S> [['Atlantic City International Airport', 'elevation Above The Sea Level In Feet', '75']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The elevation above the sea level (in metres) of Atlantic City International Airport is 23.0. <S> [['Atlantic City International Airport', 'elevation Above The Sea Level', '23.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport is in Egg Harbor Township, N.J. <S> [['Atlantic City International Airport', 'location', 'Egg Harbor Township New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport is located in Egg Harbor Township, New Jersey. <S> [['Atlantic City International Airport', 'location', 'Egg Harbor Township New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport is located at Egg Harbor Township, New Jersey. <S> [['Atlantic City International Airport', 'location', 'Egg Harbor Township New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey. <S> [['Atlantic City International Airport', 'operating Organisation', 'Port Authority of New York and New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport. <S> [['Atlantic City International Airport', 'operating Organisation', 'Port Authority of New York and New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport is operated by the Port Authority of New York and New Jersey. <S> [['Atlantic City International Airport', 'operating Organisation', 'Port Authority of New York and New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Atlantic City International Airport is 1,873. <S> [['Atlantic City International Airport', 'runway Length', '1873.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Atlantic City International Airport is 1873. <S> [['Atlantic City International Airport', 'runway Length', '1873.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Atlantic City International Airport is 1873.0. <S> [['Atlantic City International Airport', 'runway Length', '1873.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length of Atlantic City International Airport is 3048.0. <S> [['Atlantic City International Airport', 'runway Length', '3048.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport runway name is 4/22. <S> [['Atlantic City International Airport', 'runway Name', '4/22']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "4/22 is the runway name of Atlantic City International Airport. <S> [['Atlantic City International Airport', 'runway Name', '4/22']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Atlantic City International Airport has the runway name 4/22. <S> [['Atlantic City International Airport', 'runway Name', '4/22']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway surface at Atlantic City International Airport is made from asphalt and concrete. <S> [['Atlantic City International Airport', 'runway Surface Type', 'Asphalt/Concrete']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Atlantic City International Airport's runway surface is made of Asphalt and Concrete. <S> [['Atlantic City International Airport', 'runway Surface Type', 'Asphalt/Concrete']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The capital of Belgium is Brussels. <S> [['Belgium', 'capital', 'City of Brussels']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The capital city of Belgium is Brussels. <S> [['Belgium', 'capital', 'City of Brussels']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "French is the spoken language in Belgium. <S> [['Belgium', 'language', 'French language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The language of Belgium is French. <S> [['Belgium', 'language', 'French language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "French is one of the languages spoken in Belgium. <S> [['Belgium', 'language', 'French language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Belgium's leader is Charles Michel. <S> [['Belgium', 'leader', 'Charles Michel']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader of Belgium is Charles Michel. <S> [['Belgium', 'leader', 'Charles Michel']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "French is the official language of Belgium. <S> [['Belgium', 'official Language', 'French language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The official language of Belgium is French. <S> [['Belgium', 'official Language', 'French language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "German is the official language of Belgium. <S> [['Belgium', 'official Language', 'German language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Belgium's official language is German. <S> [['Belgium', 'official Language', 'German language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "German is an official language of Belgium. <S> [['Belgium', 'official Language', 'German language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Civil Aviation Authority of New Zealand is in Wellington. <S> [['Civil Aviation Authority of New Zealand', 'location', 'Wellington']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Civil Aviation Authority of New Zealand is located in Wellington. <S> [['Civil Aviation Authority of New Zealand', 'location', 'Wellington']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Curitiba is located in Brazil. <S> [['Curitiba', 'country', 'Brazil']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Curitiba is in Brazil. <S> [['Curitiba', 'country', 'Brazil']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Curitiba is part of the State of Paraná. <S> [['Curitiba', 'is Part Of', 'Parana state']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Curitiba is part of Parana state. <S> [['Curitiba', 'is Part Of', 'Parana state']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Curitiba is part of the state of Parana. <S> [['Curitiba', 'is Part Of', 'Parana state']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Curitiba is led by the Democratic Labour Party (Brazil). <S> [['Curitiba', 'leader', 'Democratic Labour Party Brazil']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Denmark language is Danish language. <S> [['Denmark', 'language', 'Danish language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Danish is the language of Denmark. <S> [['Denmark', 'language', 'Danish language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The language of Denmark is Danish. <S> [['Denmark', 'language', 'Danish language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Faroese language is spoken in Denmark. <S> [['Denmark', 'language', 'Faroese language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Denmark's language is Faroese. <S> [['Denmark', 'language', 'Faroese language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "German is the language spoken in Denmark. <S> [['Denmark', 'language', 'German language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "German is the language of Denmark. <S> [['Denmark', 'language', 'German language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "German is a language spoken in Denmark. <S> [['Denmark', 'language', 'German language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenlandic is the language spoken in Denmark. <S> [['Denmark', 'language', 'Greenlandic language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Greenlandic language is spoken in Denmark. <S> [['Denmark', 'language', 'Greenlandic language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "One of the languages of Denmark is Greenlandic. <S> [['Denmark', 'language', 'Greenlandic language']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Denmark's leader is Margrethe II of Denmark. <S> [['Denmark', 'leader', 'Margrethe II of Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Margrethe II of Denmark is the leader of Denmark. <S> [['Denmark', 'leader', 'Margrethe II of Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Queen of Denmark is Margrethe II. <S> [['Denmark', 'leader', 'Margrethe II of Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "ENAIRE is in the city of Madrid. <S> [['ENAIRE', 'city', 'Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "ENAIRE is located in the city of Madrid. <S> [['ENAIRE', 'city', 'Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "ENAIRE is located in Madrid. <S> [['ENAIRE', 'city', 'Madrid']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township, New Jersey is in the United States. <S> [['Egg Harbor Township New Jersey', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township is located in New Jersey, in the United States. <S> [['Egg Harbor Township New Jersey', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township is a township in Atlantic County, New Jersey, United States. <S> [['Egg Harbor Township New Jersey', 'is Part Of', 'Atlantic County New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey. <S> [['Egg Harbor Township New Jersey', 'is Part Of', 'Atlantic County New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township, New Jersey, is part of Atlantic County, New Jersey. <S> [['Egg Harbor Township New Jersey', 'is Part Of', 'Atlantic County New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township, New Jersey is part of New Jersey. <S> [['Egg Harbor Township New Jersey', 'is Part Of', 'New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township is a part of New Jersey. <S> [['Egg Harbor Township New Jersey', 'is Part Of', 'New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Egg Harbor Township, New Jersey, is part of New Jersey. <S> [['Egg Harbor Township New Jersey', 'is Part Of', 'New Jersey']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Flemish Government jurisdiction is Flanders. <S> [['Flemish Government', 'jurisdiction', 'Flanders']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Flanders is the jurisdiction of the Flemish Government. <S> [['Flemish Government', 'jurisdiction', 'Flanders']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Flemish Government has its jurisdiction in Flanders. <S> [['Flemish Government', 'jurisdiction', 'Flanders']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Flemish Government jurisdiction is Flemish Region. <S> [['Flemish Government', 'jurisdiction', 'Flemish Region']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Flemish Government has jurisdiction of the Flemish region. <S> [['Flemish Government', 'jurisdiction', 'Flemish Region']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The jurisdiction of the Flemish Government is the Flemish Region. <S> [['Flemish Government', 'jurisdiction', 'Flemish Region']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Flemish region is in the country of Belgium. <S> [['Flemish Region', 'country', 'Belgium']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greece demonym is Greeks. <S> [['Greece', 'demonym', 'Greeks']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The people of Greece are called Greeks. <S> [['Greece', 'demonym', 'Greeks']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The demonym of the inhabitants of Greece is Greeks. <S> [['Greece', 'demonym', 'Greeks']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greece leader name is Alexis Tsipras. <S> [['Greece', 'leader', 'Alexis Tsipras']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Alexis Tsipras is the name of the leader of Greece. <S> [['Greece', 'leader', 'Alexis Tsipras']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The leader of Greece is Alexis Tsipras. <S> [['Greece', 'leader', 'Alexis Tsipras']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greece's leader name is Prokopis Pavlopoulos. <S> [['Greece', 'leader', 'Prokopis Pavlopoulos']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Prokopis Pavlopoulos is the leader of Greece. <S> [['Greece', 'leader', 'Prokopis Pavlopoulos']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Prokopis Pavlopoulos is the name of the Leader of Greece. <S> [['Greece', 'leader', 'Prokopis Pavlopoulos']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin, is part of Clayton Winnebago County, Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Clayton Winnebago County Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin is part of Clayton, Winnebago County, Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Clayton Winnebago County Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin is part of Dale, Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Dale Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin is part of Ellington, Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Ellington Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin, is part of Ellington, Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Ellington Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin is part of Menasha, Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Menasha town Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville is part of the town of Menasha in Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Menasha town Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Greenville, Wisconsin is part of Menasha (town), Wisconsin. <S> [['Greenville Wisconsin', 'is Part Of', 'Menasha town Wisconsin']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Harrietstown, New York, is located in the United States. <S> [['Harrietstown New York', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Harrietstown, New York is in the United States. <S> [['Harrietstown New York', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Harrietstown, New York is part of New York. <S> [['Harrietstown New York', 'is Part Of', 'New York']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Harrietstown, New York, is part of New York. <S> [['Harrietstown New York', 'is Part Of', 'New York']]",
+        "output": "Correct"
+    },
+    {
+        "ins

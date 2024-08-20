@@ -1,0 +1,187 @@
+[
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The Aarhus is the airport of Aarhus, Denmark. <S> [['Aarhus Airport', 'city Served', 'Aarhus Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport serves the city of Aarhus, Denmark. <S> [['Aarhus Airport', 'city Served', 'Aarhus Denmark']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus airport serves the city of Aarhus. <S> [['Aarhus Airport', 'city Served', 'Aarhus']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is 25 metres above sea level. <S> [['Aarhus Airport', 'elevation Above The Sea Level', '25.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus airport is at an elevation of 25 metres above seal level. <S> [['Aarhus Airport', 'elevation Above The Sea Level', '25.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is 25.0 metres above the sea level. <S> [['Aarhus Airport', 'elevation Above The Sea Level', '25.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is located in Tirstrup. <S> [['Aarhus Airport', 'location', 'Tirstrup']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The location of Aarhus Airport is Tirstrup. <S> [['Aarhus Airport', 'location', 'Tirstrup']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is operated by Aarhus Lufthavn A/S. <S> [['Aarhus Airport', 'operating Organisation', 'Aarhus Lufthavn A/S']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport. <S> [['Aarhus Airport', 'operating Organisation', 'Aarhus Lufthavn A/S']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aktieselskab is the operating organisation for Aarhus Airport. <S> [['Aarhus Airport', 'operating Organisation', 'Aktieselskab']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aktieselskab operates Aarhus Airport. <S> [['Aarhus Airport', 'operating Organisation', 'Aktieselskab']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport is operated by the Aktieselskab organisation. <S> [['Aarhus Airport', 'operating Organisation', 'Aktieselskab']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport runway length is 2776.0. <S> [['Aarhus Airport', 'runway Length', '2776.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport has a runway length of 2776.0. <S> [['Aarhus Airport', 'runway Length', '2776.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the runway at Aarhus Airport is 2776.0. <S> [['Aarhus Airport', 'runway Length', '2776.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Aarhus Airport is 2777.0 meters. <S> [['Aarhus Airport', 'runway Length', '2777.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway length at Aarhus airport is 2777.0. <S> [['Aarhus Airport', 'runway Length', '2777.0']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Aarhus Airport runway name is 10L/28R. <S> [['Aarhus Airport', 'runway Name', '10L/28R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "10L/28R is the runway name of the Aarhus Airport. <S> [['Aarhus Airport', 'runway Name', '10L/28R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Aarhus Airport is 10L/28R. <S> [['Aarhus Airport', 'runway Name', '10L/28R']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name at Aarhus Airport is '10R/28L'. <S> [['Aarhus Airport', 'runway Name', '10R/28L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "10R/28L is the runway name at Aarhus airport. <S> [['Aarhus Airport', 'runway Name', '10R/28L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The runway name of Aarhus Airport is 10R/28L. <S> [['Aarhus Airport', 'runway Name', '10R/28L']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is in the United States. <S> [['Abilene Texas', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene Texas is in the United States. <S> [['Abilene Texas', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is located in the United States. <S> [['Abilene Texas', 'country', 'United States']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is part of Jones County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Jones County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene is part of Jones County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Jones County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is part of Taylor County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Taylor County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene is a part of Taylor County, Texas. <S> [['Abilene Texas', 'is Part Of', 'Taylor County Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene, Texas is part of Texas. <S> [['Abilene Texas', 'is Part Of', 'Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "Abilene is part of Texas. <S> [['Abilene Texas', 'is Part Of', 'Texas']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The length of the 1st runway at Abilene Regional airport is 3678 feet. <S> [['Abilene Regional Airport', '1st Runway Length Feet', '3678']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The first runway at Abilene Regional Airport is made from asphalt. <S> [['Abilene Regional Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The 1st runway at Abilene Regional Airport is made of Asphalt. <S> [['Abilene Regional Airport', '1st Runway Surface Type', 'Asphalt']]",
+        "output": "Correct"
+    },
+    {
+        "instruction": "Predict the missing triple given the text and graph for WebNLG dataset.",
+        "input": "The third runway at Abilene Regional Airport is 7,202 feet long. <S> [['Abilene Regional Airport', '3rd Runway Length Feet', '7202']]",
+        "output": "Correct"
+    }
+]
